@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif"  />
+<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif" alt="Hacker GIF"/>
 
 ###
 
