@@ -37,14 +37,14 @@
 
 ###
 
-<div align="left" style="display: flex; flex-direction: row; gap: 20px;">
-  <div>
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
     <a href="https://open.spotify.com/user/rcn85wc1cizhtx6yjxb3dylvo">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=rcn85wc1cizhtx6yjxb3dylvo&count=5&unique=false" alt="Spotify recently played"  />
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=rcn85wc1cizhtx6yjxb3dylvo&count=5&unique=false" alt="Spotify recently played" />
     </a>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=luuizexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuizexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=luuizexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuizexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
   </div>
 </div>
