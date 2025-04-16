@@ -1,4 +1,4 @@
-<h2 align="left">:)<br>Ingenieria Informática - UDC</h2>
+<h2 align="left">Ingenieria Informática - UDC</h2>
 
 ###
 
