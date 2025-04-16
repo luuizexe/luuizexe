@@ -2,14 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luuizexe/luuizexe/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif" alt="Hacker GIF"/>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -23,6 +15,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/luuizexe/luuizexe/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif" alt="Hacker GIF"/>
 
 ###
 
