@@ -1,8 +1,7 @@
 <h2 align="left">Ingenieria Informática - UDC</h2>
 
 ###
-
-<img align="right" height="125" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif" alt="Hacker GIF"/>
+<img align="right" height="125" src="https://raw.githubusercontent.com/luuizexe/luuizexe/output/hacker.gif" alt="Hacker GIF" />
 
 ###
 
