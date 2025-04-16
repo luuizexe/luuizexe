@@ -37,14 +37,14 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=luuizexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuizexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://open.spotify.com/user/rcn85wc1cizhtx6yjxb3dylvo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rcn85wc1cizhtx6yjxb3dylvo&count=5&unique=false" alt="Spotify recently played"  />
   </a>
