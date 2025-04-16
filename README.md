@@ -1,7 +1,7 @@
 <h2 align="left">Ingenieria Informática - UDC</h2>
 
 ###
-<img align="left" height="125" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/hacker.gif" alt="Hacker GIF" />
+<img align="right" height="125" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/hacker.gif" alt="Hacker GIF" />
 
 ###
 
