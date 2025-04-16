@@ -33,13 +33,13 @@
 
 ###
 
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif" alt="Hacker GIF"/>
+<img align="right" height="100" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-1.gif" alt="Hacker GIF"/>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luuizexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuizexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luuizexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuizexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
 </div>
 
 ###
