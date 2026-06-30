@@ -66,15 +66,17 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/luuiz.exe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=luuiz.exe&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/rcn85wc1cizhtx6yjxb3dylvo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rcn85wc1cizhtx6yjxb3dylvo&count=7&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
+<br clear="both">
+
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
