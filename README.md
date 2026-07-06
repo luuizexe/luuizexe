@@ -1,5 +1,5 @@
 <img align="left" height="120" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
-<img align="right" height="105" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
+<img align="right" height="95" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
 
 <div data-importer="techs" align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
