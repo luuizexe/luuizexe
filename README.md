@@ -1,8 +1,13 @@
-<img data-importer="image" align="left" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh2OHp1dWpneGYwOHRzZjhleWEyYnczdWZuMzZ3OGd3NWpyZ3RqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yh0qLwfpAogL9vVxhL/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh2OHp1dWpneGYwOHRzZjhleWEyYnczdWZuMzZ3OGd3NWpyZ3RqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yh0qLwfpAogL9vVxhL/giphy.gif"  />
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+      <img height="100" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
+    </td>
+    <td align="right">
+      <img height="100" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -41,11 +46,15 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  <a href="mailto:campelolarr@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://www.instagram.com/luuiz.exe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
+  <a href="mailto:campelolarr@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -59,8 +68,45 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/luuizexe/luuizexe/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/luuizexe/luuizexe/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h3 align="center">Most Used Languages</h3>
+
+<div data-importer="languages" align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  </a>
+  <img width="10" />
+  <a href="https://www.java.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  </a>
+  <img width="10" />
+  <a href="https://ocaml.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml" title="OCaml" />
+  </a>
+  <img width="10" />
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
+  </a>
+  <img width="10" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" title="JavaScript" />
+  </a>
+  <img width="10" />
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML" title="HTML" />
+  </a>
+  <img width="10" />
+  <a href="https://en.wikipedia.org/wiki/Assembly_language">
+    <img src="https://img.shields.io/static/v1?message=Assembly&label=&color=6E4C13&style=flat" height="40" alt="Assembly" title="Assembly" />
+  </a>
+  <img width="10" />
+  <a href="https://www.erlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="Erlang" title="Erlang" />
+  </a>
 </div>
 
 ###
