@@ -1,36 +1,46 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left">
-      <img height="100" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
-    </td>
-    <td align="right">
-      <img height="100" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
-    </td>
-  </tr>
-</table>
-
-###
+<img align="left" height="120" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
+<img align="right" height="105" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <a href="https://www.java.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" title="JavaScript" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <a href="https://spring.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <a href="https://redux.js.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" title="Redux" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" title="HTML5" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" title="Git" />
+  </a>
 </div>
 
 ###
@@ -68,45 +78,8 @@
 ###
 
 <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/luuizexe/luuizexe/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/luuizexe/luuizexe/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<h3 align="center">Most Used Languages</h3>
-
-<div data-importer="languages" align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  </a>
-  <img width="10" />
-  <a href="https://www.java.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  </a>
-  <img width="10" />
-  <a href="https://ocaml.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml" title="OCaml" />
-  </a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
-  </a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" title="JavaScript" />
-  </a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML" title="HTML" />
-  </a>
-  <img width="10" />
-  <a href="https://en.wikipedia.org/wiki/Assembly_language">
-    <img src="https://img.shields.io/static/v1?message=Assembly&label=&color=6E4C13&style=flat" height="40" alt="Assembly" title="Assembly" />
-  </a>
-  <img width="10" />
-  <a href="https://www.erlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="Erlang" title="Erlang" />
-  </a>
 </div>
 
 ###
