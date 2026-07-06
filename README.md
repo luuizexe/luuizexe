@@ -1,4 +1,4 @@
-<img align="left" height="120" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
+<img align="left" height="110" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
 <img align="right" height="95" src="https://github.com/luuizexe/luuizexe/blob/main/.github/workflows/minegif.gif" />
 
 <div data-importer="techs" align="center">
